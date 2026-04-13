@@ -1,0 +1,10 @@
+OUTPUT YANG DIHASILKAN SISTEM:
+1. Jendela video realtime berisi bounding box pekerja + status COMPLIANT/VIOLATION
+2. Folder output/videos/ berisi video anotasi hasil monitoring
+3. Folder output/evidences/ berisi potongan gambar bukti pelanggaran
+4. Folder output/reports/ berisi:
+   - violation_events.csv
+   - k3_summary.xlsx
+   - k3_summary.html
+5. Folder output/logs/ berisi violation_events.jsonl
+6. Console terminal menampilkan alert real-time saat pelanggaran terkonfirmasi
