@@ -2,3 +2,7 @@ ppe_k3_case2/datasets/hospital_ppe/raw/cppe5_data/dataset.tar.gz
 ppe_k3_case2/output_video_probe/file_probe/annotated_20260412_171833.avi
 ppe_k3_case2/datasets/hospital_ppe/raw/cppe5_data/dataset.tar.gz
 ppe_k3_case2/output_video_probe/file_probe/annotated_20260412_171833.avi
+*.avi
+output_video_probe/
+datasets/
+*.tar.gz
