@@ -1,0 +1,6 @@
+
+ppe_k3_case2/datasets/
+ppe_k3_case2/output_test/
+ppe_k3_case2/output_video_probe/
+*.avi
+*.tar.gz
